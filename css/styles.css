@@ -19,7 +19,7 @@
     --text-color-light: hsl(var(--hue-color), 65%, 50%);
     --input-color: hsl(var(--hue-color), 65%, 50%);
     --body-color: hsl(var(--hue-color), 65%, 50%);
-    --container-color:#FFF;
+    --container-color:hsl(0, 0%, 100%);
 
     /*==== Font and typography ====*/
     --body-font: 'Poppins', sans-serif;
