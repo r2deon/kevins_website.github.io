@@ -20,7 +20,7 @@ if(navClose){
 }
 
 /*======================== Remove Menue Mobile ========================*/
-const navLink = document.querySelectorAll('nav__link')
+const navLink = document.querySelectorAll('.nav__link')
 
 function linkAction(){
     const navMenu = document.getElementById('nav-menu')
