@@ -244,7 +244,7 @@ img{
 }
 
 .home_contant{
-    grid-template-columns: 0.5fr 3fr;
+    grid-template-columns: .5fr 3fr;
     padding-top: 3.5rem;
     align-items: center;
 }
@@ -270,7 +270,7 @@ img{
 }
 
 .home__blob-img{
-width: 150px;
+width: 170px;
 }
 
 /*============ BUTTONS ==================*/
