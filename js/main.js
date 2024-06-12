@@ -30,8 +30,8 @@ function linkAction(){
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*======================== Accordion Skills ===========================*/
-const skillsContent = document.getElementsByClassName('skills__content'),
-      skillsHeader = document.querySelectorAll('skills__header')
+const skillsContent = document.getElementsByClassName('.skills__content'),
+      skillsHeader = document.querySelectorAll('.skills__header')
 
 function toggleSkills(){
     let itemClass = this.parentNode.className
