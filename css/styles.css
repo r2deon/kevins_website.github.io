@@ -494,6 +494,19 @@ width: 170px;
     width: 90%;
 }
 
+.skills__close .skills__list{
+    height: 0;
+    overflow: hidden;
+}
+
+.skills__open .skills__list{
+    height: max-content;
+    margin-bottom: var(--mb-2-5);
+}
+
+.skills__open .skills__arrow{
+    transform: rotate(-180deg);
+}
 /*================ QUALIFICATION ===========*/
 
 
