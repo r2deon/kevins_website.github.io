@@ -467,7 +467,7 @@ width: 170px;
 }
 
   /*======Skill 2 ======*/
-.skills__html{
+/* .skills__html{
     width: 90%;
 }
 .skills__css{
@@ -481,7 +481,7 @@ width: 170px;
 }
 
   /*======Skill 3 ======*/
-.skills__html{
+/* .skills__html{
     width: 90%;
 }
 .skills__css{
@@ -491,8 +491,8 @@ width: 170px;
     width: 40%;
 }
 .skills__msoffice{
-    width: 90%;
-}
+    width: 90%; 
+} */
 
 .skills__close .skills__list{
     height: 0;
