@@ -426,7 +426,7 @@ width: 170px;
     padding-left: 2.7rem;
 }
 
-.skills__tittles{
+.skills__titles{
     display: flex;
     justify-content: space-between;
     margin-bottom: var(--mb-0-5);
