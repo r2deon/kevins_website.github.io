@@ -449,12 +449,12 @@ width: 170px;
 
 .skills__percentage{
     display: block;
-    background-color: var(--first-color);
+    background-color: var(--first-color-alt);
 }
 
   /*======Skill 1 ======*/
 .skills__html{
-    width: 50%;
+    width: 90%;
 }
 .skills__css{
     width: 80%;
