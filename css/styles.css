@@ -508,7 +508,7 @@ width: 170px;
     transform: rotate(-180deg);
 }
 /*================ QUALIFICATION ===========*/
-.qualifications__tabs{
+.qualification__tabs{
     display: flex;
     justify-content: space-evenly;
     margin-bottom: var(--mb-2);
