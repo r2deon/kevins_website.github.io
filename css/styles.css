@@ -444,12 +444,12 @@ width: 170px;
 }
 
 .skills__bar{
-    background-color: var(--first-color);
+    background-color: var(--first-color-lighter);
 }
 
 .skills__percentage{
     display: block;
-    background-color: var(--first-color-second);
+    background-color: var(--first-color);
 }
 
   /*======Skill 1 ======*/
