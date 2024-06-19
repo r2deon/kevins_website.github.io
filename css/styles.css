@@ -647,8 +647,8 @@ width: 170px;
     justify-content: center;
     padding: 0 1rem;
     z-index: var(--z-modal);
-    /* opacity: 0; */
-    /* visibility: hidden; */
+    opacity: 0;
+    visibility: hidden;
     transition: 0.3;
 }
 
@@ -680,4 +680,9 @@ width: 170px;
     font-size: 1.5rem;
     color: var(--first-color);
     cursor: pointer;
+}
+
+.services__modal-icon{
+    color: var(--first-color);
+    margin-right: var(--mb-0-25);
 }
