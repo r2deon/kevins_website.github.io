@@ -82,6 +82,7 @@ modalBtns.forEach((modalBtn, i)=> {
         modal(i)
     })
 })
+
 modalCloses.forEach((modalClose) => {
     modalClose.addEventListener('click', () =>{
         modalViews.forEach((modalView) =>{
@@ -89,4 +90,21 @@ modalCloses.forEach((modalClose) => {
         })
     })
 })
+
+/*======== Portfolio Swiper ==========*/
+let swiper = new Swiper('.portfolio__container', {
+    cssMode: true,
+    loop: true,
+
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    mousewheel: true,
+    keyboard: true,
+  });
 
