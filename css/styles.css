@@ -743,7 +743,7 @@ width: 170px;
     bottom: -2.5rem;
 }
 
-.swiper-pagination-bullets-active{
+.swiper-pagination-bullet-active{
     background-color: var(--first-color);
 }
 
