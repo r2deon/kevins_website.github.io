@@ -712,8 +712,7 @@ width: 170px;
     font-size: var(--h3-font-size);
     margin-bottom: var(--mb-0-5);
 }
-
-.portfolio__describtion{
+.portfolio__description{
     margin-bottom: var(--mb-0-75);
 }
 
