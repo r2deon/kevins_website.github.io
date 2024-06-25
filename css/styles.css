@@ -739,7 +739,7 @@ width: 170px;
     right: -0.5rem;
 }
 
-.swiper-pagination-bullets{
+.swiper-pagination-horizontal > .swiper-pagination-bullets{
     bottom: -2.5rem;
 }
 
