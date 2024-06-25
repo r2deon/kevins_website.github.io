@@ -91,7 +91,7 @@ modalCloses.forEach((modalClose) => {
     })
 })
 
-/*======== Portfolio Swiper ==========*/
+/*======== Portfolio Swiper ==========
 let swiper = new Swiper('.portfolio__container', {
     cssMode: true,
     loop: true,
@@ -104,5 +104,18 @@ let swiper = new Swiper('.portfolio__container', {
       el: '.swiper-pagination',
       clickable: true,
     },
+  });*/
+  let swiper = new Swiper(".portfolio__container", {
+    effect: "cube",
+    grabCursor: true,
+    cubeEffect: {
+      shadow: true,
+      slideShadows: true,
+      shadowOffset: 20,
+      shadowScale: 0.94,
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
   });
-
