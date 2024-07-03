@@ -1109,6 +1109,10 @@ width: 170px;
         justify-content: initial;
     }
 
+    .qualification__data{
+        gap: 0.5rem;
+    }
+
     .qualification__tabs{
         justify-content: center;
     }
