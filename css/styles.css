@@ -1114,7 +1114,7 @@ width: 170px;
     }
 
     .qualification__button{
-        margin: 0 --mb-1;
+        margin: 0 (var(--mb-1));
     }
 
     .qualification__sections{
